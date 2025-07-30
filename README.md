@@ -1,2 +1,2 @@
-# Yeralt-K-t-phanesi
+# Yeraltı-Kütüphanesi
 “ Algoritmalara değil, anlamaya açığız. “
